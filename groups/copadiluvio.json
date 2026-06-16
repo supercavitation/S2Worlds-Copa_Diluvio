@@ -5,11 +5,15 @@
 }, {
     "speciesId": "barbaracle",
     "fastMove": "FURY_CUTTER",
-    "chargedMoves": ["CROSS_CHOP","STONE_EDGE"]
+    "chargedMoves": ["CROSS_CHOP","GRASS_KNOT"]
 }, {
     "speciesId": "blastoise",
     "fastMove": "ROLLOUT",
     "chargedMoves": ["HYDRO_CANNON","SKULL_BASH"]
+}, {
+    "speciesId": "castform_rainy",
+    "fastMove": "WATER_GUN",
+    "chargedMoves": ["WEATHER_BALL_WATER", "THUNDER"]
 }, {
     "speciesId": "dewgong",
     "fastMove": "ICE_SHARD",
@@ -74,10 +78,6 @@
     "speciesId": "malamar",
     "fastMove": "PSYWAVE",
     "chargedMoves": ["FOUL_PLAY", "SUPER_POWER"]
-}, {
-    "speciesId": "mantine",
-    "fastMove": "WING_ATTACK",
-    "chargedMoves": ["TWISTER", "WATER_PULSE"]
 }, {
     "speciesId": "metang",
     "fastMove": "FURY_CUTTER",

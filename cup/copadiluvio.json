@@ -6,7 +6,7 @@
         "values": ["dark","steel","water","dragon"]
     },{
         "filterType": "id",
-        "values": ["gothitelle","gothorita"]
+        "values": []
     }],
     "exclude": [{
         "filterType": "tag",
@@ -16,6 +16,6 @@
         "values": ["fire","ground","electric","fighting","grass","fairy","ghost"]
     }, {
         "filterType": "id",
-        "values": ["aegislash_shield","araquanid","bastiodon","corviknight","doublade","durant","empoleon","escavalier","forretress","honedge","klang","mandibuzz","obstagoon","orthworm","probopass","scizor","steelix","toxapex","umbreon","vullaby","wormadam_trash"]
+        "values": ["aegislash_shield","araquanid","bastiodon","corviknight","doublade","durant","empoleon","escavalier","forretress","honedge","klang","mandibuzz","mantine","obstagoon","orthworm","probopass","scizor","steelix","toxapex","umbreon","vullaby","wormadam_trash"]
     }]
 }

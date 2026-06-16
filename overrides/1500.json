@@ -2,7 +2,7 @@
   {
     "speciesId": "altaria",
     "chargedMoves": ["MOONBLAST","FLAMETHROWER"],
-    "weight": 1
+    "weight": 10
   },
   {
     "speciesId": "arctibax",
@@ -10,7 +10,7 @@
   },
   {
     "speciesId": "barbaracle",
-    "weight": 14
+    "weight": 18
   },
   {
     "speciesId": "bibarel",
@@ -60,7 +60,7 @@
   },
   {
     "speciesId": "gyarados",
-    "weight": 17
+    "weight": 19
   },
   {
     "speciesId": "jellicent",
@@ -95,11 +95,6 @@
     "weight": 10
   },
   {
-    "speciesId": "mantine",
-    "chargedMoves": ["TWISTER","WATER_PULSE"],
-    "weight":15
-  },
-  {
     "speciesId": "metang",
     "weight": 15
   },
@@ -115,11 +110,11 @@
   },
   {
     "speciesId": "pawniard",
-    "weight": 12
+    "weight": 16
   },
   {
     "speciesId": "perrserker",
-    "weight": 18
+    "weight": 14
   },
   {
     "speciesId": "qwilfish",
@@ -135,11 +130,12 @@
   },
   {
     "speciesId": "sandslash_alolan",
-    "weight": 15
+    "weight": 10
   },
   {
     "speciesId": "seaking",
-    "weight": 5
+    "chargedMoves": ["DRILL_RUN", "ICY_WIND"],
+    "weight": 13
   },
   {
     "speciesId": "sealeo",
@@ -169,6 +165,6 @@
   {
     "speciesId": "walrein",
     "chargedMoves": ["ICICLE_SPEAR","EARTHQUAKE"],
-    "weight": 20
+    "weight": 10
   }
 ]
