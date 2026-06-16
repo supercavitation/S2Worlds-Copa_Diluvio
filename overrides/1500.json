@@ -10,7 +10,7 @@
   },
   {
     "speciesId": "barbaracle",
-    "weight": 18
+    "weight": 20
   },
   {
     "speciesId": "bibarel",
@@ -23,7 +23,7 @@
   {
     "speciesId": "castform_rainy",
     "fastMove": "WATER_GUN",
-    "weight": 1
+    "weight": 3
   },
   {
     "speciesId": "dewgong",
@@ -56,11 +56,11 @@
   {
     "speciesId": "goodra",
     "chargedMoves": ["AQUA_TAIL", "THUNDER_PUNCH"],
-    "weight": 12
+    "weight": 18
   },
   {
     "speciesId": "gyarados",
-    "weight": 19
+    "weight": 15
   },
   {
     "speciesId": "jellicent",
@@ -92,15 +92,15 @@
   },
   {
     "speciesId": "malamar",
-    "weight": 10
+    "weight": 7
   },
   {
     "speciesId": "metang",
-    "weight": 15
+    "weight": 20
   },
   {
     "speciesId": "milotic",
-    "weight": 18
+    "weight": 20
   },
   {
     "speciesId": "omastar",
@@ -117,6 +117,10 @@
     "weight": 14
   },
   {
+    "speciesId": "politoed",
+    "weight": 4
+  },
+  {
     "speciesId": "qwilfish",
     "weight": 1
   },
@@ -130,7 +134,7 @@
   },
   {
     "speciesId": "sandslash_alolan",
-    "weight": 10
+    "weight": 6
   },
   {
     "speciesId": "seaking",
@@ -144,11 +148,11 @@
   {
     "speciesId": "shelgon",
     "chargedMoves": ["TWISTER","FLAMETHROWER"],
-    "weight": 14
+    "weight": 15
   },
   {
     "speciesId": "sliggoo",
-    "weight": 8
+    "weight": 13
   },
   {
     "speciesId": "starmie",
