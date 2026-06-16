@@ -1,0 +1,174 @@
+[
+  {
+    "speciesId": "altaria",
+    "chargedMoves": ["MOONBLAST","FLAMETHROWER"],
+    "weight": 1
+  },
+  {
+    "speciesId": "arctibax",
+    "weight": 1
+  },
+  {
+    "speciesId": "barbaracle",
+    "weight": 14
+  },
+  {
+    "speciesId": "bibarel",
+    "weight": 1
+  },
+  {
+    "speciesId": "blastoise",
+    "weight": 15
+  },
+  {
+    "speciesId": "castform_rainy",
+    "fastMove": "WATER_GUN",
+    "weight": 1
+  },
+  {
+    "speciesId": "dewgong",
+    "chargedMoves": ["ICY_WIND","DRILL_RUN"],
+    "weight": 10
+  },
+  {
+    "speciesId": "dewott",
+    "weight": 5
+  },
+  {
+    "speciesId": "dragonair",
+    "chargedMoves": ["AQUA_TAIL","WRAP"],
+    "weight": 1
+  },
+  {
+    "speciesId": "drampa",
+    "chargedMoves": ["SWIFT","OUTRAGE"],
+    "weight": 1
+  },
+  {
+    "speciesId": "drapion",
+    "weight": 5
+  },
+  {
+    "speciesId": "golisopod",
+    "fastMove": "SHADOW_CLAW",
+    "weight": 1
+  },
+  {
+    "speciesId": "goodra",
+    "chargedMoves": ["AQUA_TAIL", "THUNDER_PUNCH"],
+    "weight": 12
+  },
+  {
+    "speciesId": "gyarados",
+    "weight": 17
+  },
+  {
+    "speciesId": "jellicent",
+    "fastMove": "HEX",
+    "chargedMoves": ["SURF","SHADOW_BALL"],
+    "weight": 1
+  },
+  {
+    "speciesId": "kingdra",
+    "chargedMoves": ["SWIFT"," SURF"],
+    "weight": 1
+  },
+  {
+    "speciesId": "kingdra_shadow",
+    "chargedMoves": ["SWIFT"," SURF"],
+    "weight": 1
+  },
+  {
+    "speciesId": "lapras",
+    "weight": 18
+  },
+  {
+    "speciesId": "lokix",
+    "weight": 8
+  },
+  {
+    "speciesId": "ludicolo",
+    "weight": 1
+  },
+  {
+    "speciesId": "malamar",
+    "weight": 10
+  },
+  {
+    "speciesId": "mantine",
+    "chargedMoves": ["TWISTER","WATER_PULSE"],
+    "weight":15
+  },
+  {
+    "speciesId": "metang",
+    "weight": 15
+  },
+  {
+    "speciesId": "milotic",
+    "weight": 18
+  },
+  {
+    "speciesId": "omastar",
+    "fastMove": "MUD_SHOT",
+    "chargedMoves": ["ROCK_SLIDE","HYDRO_PUMP"],
+    "weight": 1
+  },
+  {
+    "speciesId": "pawniard",
+    "weight": 12
+  },
+  {
+    "speciesId": "perrserker",
+    "weight": 18
+  },
+  {
+    "speciesId": "qwilfish",
+    "weight": 1
+  },
+  {
+    "speciesId": "samurott",
+    "weight": 5
+  },
+  {
+    "speciesId": "samurott_hisuian",
+    "weight": 3
+  },
+  {
+    "speciesId": "sandslash_alolan",
+    "weight": 15
+  },
+  {
+    "speciesId": "seaking",
+    "weight": 5
+  },
+  {
+    "speciesId": "sealeo",
+    "weight": 1
+  },
+  {
+    "speciesId": "shelgon",
+    "chargedMoves": ["TWISTER","FLAMETHROWER"],
+    "weight": 14
+  },
+  {
+    "speciesId": "sliggoo",
+    "weight": 8
+  },
+  {
+    "speciesId": "starmie",
+    "weight": 1
+  },
+  {
+    "speciesId": "tentacruel",
+    "weight": 1
+  },
+  {
+    "speciesId": "thievul",
+    "weight": 10
+  },
+  {
+    "speciesId": "walrein",
+    "chargedMoves": ["ICICLE_SPEAR","EARTHQUAKE"],
+    "weight": 20
+  }
+]
