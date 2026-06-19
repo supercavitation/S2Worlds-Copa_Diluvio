@@ -2,7 +2,7 @@
   {
     "speciesId": "altaria",
     "chargedMoves": ["MOONBLAST","FLAMETHROWER"],
-    "weight": 10
+    "weight": 13
   },
   {
     "speciesId": "arctibax",
@@ -50,8 +50,8 @@
   },
   {
     "speciesId": "golisopod",
-    "fastMove": "SHADOW_CLAW",
-    "weight": 1
+    "fastMove": "FURY_CUTTER",
+    "weight": 20
   },
   {
     "speciesId": "goodra",
@@ -60,7 +60,7 @@
   },
   {
     "speciesId": "gyarados",
-    "weight": 15
+    "weight": 16
   },
   {
     "speciesId": "jellicent",
@@ -138,7 +138,7 @@
   },
   {
     "speciesId": "seaking",
-    "chargedMoves": ["DRILL_RUN", "ICY_WIND"],
+    "chargedMoves": ["DRILL_RUN", "MEGAHORN"],
     "weight": 13
   },
   {
@@ -148,11 +148,11 @@
   {
     "speciesId": "shelgon",
     "chargedMoves": ["TWISTER","FLAMETHROWER"],
-    "weight": 15
+    "weight": 17
   },
   {
     "speciesId": "sliggoo",
-    "weight": 13
+    "weight": 17
   },
   {
     "speciesId": "starmie",

@@ -40,6 +40,10 @@
     "chargedMoves": ["CRUNCH", "AQUA_TAIL"]
 }, {
     "speciesId": "golisopod",
+    "fastMove": "FURY_CUTTER",
+    "chargedMoves": ["AQUA_JET", "X_SCISSOR"]
+}, {
+    "speciesId": "golisopod",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["AQUA_JET", "X_SCISSOR"]
 }, {
